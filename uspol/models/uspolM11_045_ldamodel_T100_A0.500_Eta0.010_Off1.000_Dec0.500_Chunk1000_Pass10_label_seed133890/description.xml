@@ -1,0 +1,520 @@
+<model_description>
+  <id/>
+  <model_id>ldamodel_T100_Aarray_Eta0.010_Off1.000_Dec0.500_Chunk1000_Pass10</model_id>
+  <description/>
+  <topic>
+    <topic_index>0</topic_index>
+    <label>gay rights</label>
+    <description>najeksponiranija je prica o alabami</description>
+  </topic>
+  <topic>
+    <topic_index>1</topic_index>
+    <label>gun rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>2</topic_index>
+    <label>veteran affairs</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>3</topic_index>
+    <label>mix: nigeria et al</label>
+    <description>tema, ali sa malim brojem prica, samo njih nekoliko 
+desetaka ima ozbiljnu vjerojatnost ove teme.
+ostale price su u velikoj mjeri vanjskopoliticke</description>
+  </topic>
+  <topic>
+    <topic_index>4</topic_index>
+    <label>mix</label>
+    <description>mostly political topics, few high ranked
+stories are about watergate</description>
+  </topic>
+  <topic>
+    <topic_index>5</topic_index>
+    <label>mix: chapel hill et al</label>
+    <description>other topics: gun rights, civil rights, ...</description>
+  </topic>
+  <topic>
+    <topic_index>6</topic_index>
+    <label>mix: koch brothers</label>
+    <description>ostale price su politicke i vezane uz republikance</description>
+  </topic>
+  <topic>
+    <topic_index>7</topic_index>
+    <label>us-israeli relations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>8</topic_index>
+    <label>mix: surveillance et al</label>
+    <description>other topic: intelligence agencies, ...</description>
+  </topic>
+  <topic>
+    <topic_index>9</topic_index>
+    <label>mix - photo/politics</label>
+    <description>zanimljiva tema, clanci vecinom sadrze galerije
+jer su bitne rijeci vezane uz to, i pretezno su politicki</description>
+  </topic>
+  <topic>
+    <topic_index>10</topic_index>
+    <label>mix: bowe bergdahl et al</label>
+    <description>ostale teme: vojska, afganistan, ...</description>
+  </topic>
+  <topic>
+    <topic_index>11</topic_index>
+    <label>labor issues</label>
+    <description>woreks, wages, social issues</description>
+  </topic>
+  <topic>
+    <topic_index>12</topic_index>
+    <label>mix: drugs and health topics</label>
+    <description>droge, ljekovi, zdravstvene teme, medical marijuana, ...</description>
+  </topic>
+  <topic>
+    <topic_index>13</topic_index>
+    <label>radio and television</label>
+    <description>in the context of politics</description>
+  </topic>
+  <topic>
+    <topic_index>14</topic_index>
+    <label>religion in politics</label>
+    <description>cross-cutting topics</description>
+  </topic>
+  <topic>
+    <topic_index>15</topic_index>
+    <label>stopwords</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>16</topic_index>
+    <label>cuba</label>
+    <description>+ malo venezuele</description>
+  </topic>
+  <topic>
+    <topic_index>17</topic_index>
+    <label>mix: immigrants, common core</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>18</topic_index>
+    <label>mix: death penalty, violent crimes</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>19</topic_index>
+    <label>finance</label>
+    <description>wall street, campaigns, pension funds</description>
+  </topic>
+  <topic>
+    <topic_index>20</topic_index>
+    <label>mix: fundraising and ted cruz</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>21</topic_index>
+    <label>mix: jeb bush et al</label>
+    <description>ostalo: jeb bush, kampanja, politika, ...</description>
+  </topic>
+  <topic>
+    <topic_index>22</topic_index>
+    <label>obama</label>
+    <description>kampanja, putovanja, posjeti, vanjska politika, 
+hillary, biden</description>
+  </topic>
+  <topic>
+    <topic_index>23</topic_index>
+    <label>hillary clinton email</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>24</topic_index>
+    <label>mix: keystone XL, environmental issues</label>
+    <description>emission cuts, clean energy, ...</description>
+  </topic>
+  <topic>
+    <topic_index>25</topic_index>
+    <label>sexual assaults</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>26</topic_index>
+    <label>stopwords</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>27</topic_index>
+    <label>liberal and progressive</label>
+    <description>campaing and political topics tied to liberal 
+and progressive candidates</description>
+  </topic>
+  <topic>
+    <topic_index>28</topic_index>
+    <label>movies books music</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>29</topic_index>
+    <label>mix: Harry Reid et al</label>
+    <description>other political topics</description>
+  </topic>
+  <topic>
+    <topic_index>30</topic_index>
+    <label>muslim extremism</label>
+    <description>isis, terorizam, ...</description>
+  </topic>
+  <topic>
+    <topic_index>31</topic_index>
+    <label>net neutrality</label>
+    <description>ima drugih clanaka o IT-u, ali malo</description>
+  </topic>
+  <topic>
+    <topic_index>32</topic_index>
+    <label>ISIS war authorization</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>33</topic_index>
+    <label>sport</label>
+    <description>u kontekstu politike</description>
+  </topic>
+  <topic>
+    <topic_index>34</topic_index>
+    <label>mix: north korea et al</label>
+    <description>od ostalih tema najzastupljenija je: 
+portret bila clintona</description>
+  </topic>
+  <topic>
+    <topic_index>35</topic_index>
+    <label>mix: ted cruz, john mccain</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>36</topic_index>
+    <label>mix: ben carson et al</label>
+    <description>ostalo: izbori, medicinske teme, druge politicke teme</description>
+  </topic>
+  <topic>
+    <topic_index>37</topic_index>
+    <label>selma</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>38</topic_index>
+    <label>education2</label>
+    <description>seems like mostly high schools</description>
+  </topic>
+  <topic>
+    <topic_index>39</topic_index>
+    <label>mix: oil and gas et al</label>
+    <description>pretezno o drillingu, od ostalog tu su:
+environmental issues, obama, ...</description>
+  </topic>
+  <topic>
+    <topic_index>40</topic_index>
+    <label>stopwords: opinion</label>
+    <description>strange, seems the topic consists of words
+common to analysis and opinion articles</description>
+  </topic>
+  <topic>
+    <topic_index>41</topic_index>
+    <label>ukraine and russia</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>42</topic_index>
+    <label>mix: trade and regulations et al</label>
+    <description>trade, trade regulations, dangerous chemical 
+regulations, some agricultire</description>
+  </topic>
+  <topic>
+    <topic_index>43</topic_index>
+    <label>mixture: DNC et al</label>
+    <description>ostalo: presidential election, politics</description>
+  </topic>
+  <topic>
+    <topic_index>44</topic_index>
+    <label>mix: immigration, de blasio</label>
+    <description>immigrant, border control, 
+NYC mayor bill de blasio</description>
+  </topic>
+  <topic>
+    <topic_index>45</topic_index>
+    <label>south</label>
+    <description>confederate flag license plate case, lot of history,
+slavery, lincoln, ...</description>
+  </topic>
+  <topic>
+    <topic_index>46</topic_index>
+    <label>police shootings</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>47</topic_index>
+    <label>gay rights</label>
+    <description>religious freedom laws je podtema</description>
+  </topic>
+  <topic>
+    <topic_index>48</topic_index>
+    <label>mix: kissinger protests et al</label>
+    <description>other: various political topics, some history</description>
+  </topic>
+  <topic>
+    <topic_index>49</topic_index>
+    <label>syrian war</label>
+    <description>isis, turkey, kurds, us, ...</description>
+  </topic>
+  <topic>
+    <topic_index>50</topic_index>
+    <label>DHS shutdown</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>51</topic_index>
+    <label>mix: sheldon silver et al</label>
+    <description>ostalo: joe biden, politics</description>
+  </topic>
+  <topic>
+    <topic_index>52</topic_index>
+    <label>iran nuclear negotiations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>53</topic_index>
+    <label>stopwords: journalism related</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>54</topic_index>
+    <label>iran letter</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>55</topic_index>
+    <label>vaccination</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>56</topic_index>
+    <label>mix: germanwings et al</label>
+    <description>ostalo: air traffic related, obama, ...</description>
+  </topic>
+  <topic>
+    <topic_index>57</topic_index>
+    <label>budget</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>58</topic_index>
+    <label>ukraine and russia</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>59</topic_index>
+    <label>mix: martin o'malley, jon stewart</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>60</topic_index>
+    <label>stopwords: age et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>61</topic_index>
+    <label>mix: random</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>62</topic_index>
+    <label>secret service</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>63</topic_index>
+    <label>afghanistan</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>64</topic_index>
+    <label>mix: tom schweich, pope francis et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>65</topic_index>
+    <label>presidential elections</label>
+    <description>candidates, campaigns, nominations, primary elections, iowa</description>
+  </topic>
+  <topic>
+    <topic_index>66</topic_index>
+    <label>mix</label>
+    <description>voting, clinton emails, ...</description>
+  </topic>
+  <topic>
+    <topic_index>67</topic_index>
+    <label>mix: civil rights et al</label>
+    <description>selma, black rights, gay rights, democracy, ...
+ostalo: politika</description>
+  </topic>
+  <topic>
+    <topic_index>68</topic_index>
+    <label>mix: obama immigration, oregon governor et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>69</topic_index>
+    <label>aaron schock</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>70</topic_index>
+    <label>conflict in middle east</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>71</topic_index>
+    <label>mix (stopwords?)</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>72</topic_index>
+    <label>lawsuit</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>73</topic_index>
+    <label>mix</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>74</topic_index>
+    <label>mix</label>
+    <description>PETA, obama, banks, campaigns</description>
+  </topic>
+  <topic>
+    <topic_index>75</topic_index>
+    <label>mix: fundraising, mitt romney, chris christie</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>76</topic_index>
+    <label>mix: surveillance, cybersecurity</label>
+    <description>cybersecurity:
+cyberwar, cybercrimes, hacking, regulation</description>
+  </topic>
+  <topic>
+    <topic_index>77</topic_index>
+    <label>economy</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>78</topic_index>
+    <label>mix: science, opinion polls</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>79</topic_index>
+    <label>mix: china et al</label>
+    <description>asia: japan, australia, india
+other random articles</description>
+  </topic>
+  <topic>
+    <topic_index>80</topic_index>
+    <label>mix: medicare, budget, senate and congress</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>81</topic_index>
+    <label>abortion</label>
+    <description>big part of the topic is human trafficking bill conflict</description>
+  </topic>
+  <topic>
+    <topic_index>82</topic_index>
+    <label>iran nuclear negotiations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>83</topic_index>
+    <label>mix: menendez, corruption</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>84</topic_index>
+    <label>student debt</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>85</topic_index>
+    <label>CPAC</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>86</topic_index>
+    <label>marijuana</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>87</topic_index>
+    <label>chicago mayor elections</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>88</topic_index>
+    <label>obamacare</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>89</topic_index>
+    <label>mix: benghazi investigation et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>90</topic_index>
+    <label>Topic 90</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>91</topic_index>
+    <label>winter storms</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>92</topic_index>
+    <label>mix</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>93</topic_index>
+    <label>mix: david axelrod et al</label>
+    <description>glavna prica je relativno slabo zastupljena</description>
+  </topic>
+  <topic>
+    <topic_index>94</topic_index>
+    <label>mix. california et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>95</topic_index>
+    <label>mix</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>96</topic_index>
+    <label>mix: rudy giuliani, drones</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>97</topic_index>
+    <label>mix: rand paul et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>98</topic_index>
+    <label>prisons</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>99</topic_index>
+    <label>mix</label>
+    <description/>
+  </topic>
+</model_description>

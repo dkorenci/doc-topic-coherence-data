@@ -1,0 +1,255 @@
+<model_description>
+  <id/>
+  <model_id>ldamodel_T50_Aarray_Eta0.010_Off1.000_Dec0.500_Chunk1000_Pass30</model_id>
+  <description/>
+  <topic>
+    <topic_index>0</topic_index>
+    <label>mix: veteran affairs, death penalty et al</label>
+    <description>ostalo: mental health, homelesness, prisons</description>
+  </topic>
+  <topic>
+    <topic_index>1</topic_index>
+    <label>mix: greek economy et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>2</topic_index>
+    <label>mix</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>3</topic_index>
+    <label>mix: benghazi investigation, hillary clinton email, sheldon silver, et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>4</topic_index>
+    <label>republican primaries</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>5</topic_index>
+    <label>mix</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>6</topic_index>
+    <label>mix: surveillance, trade pact</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>7</topic_index>
+    <label>mix: ted cruz, animals, et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>8</topic_index>
+    <label>mix: labor issues</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>9</topic_index>
+    <label>immigration</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>10</topic_index>
+    <label>mix</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>11</topic_index>
+    <label>DHS shutdown</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>12</topic_index>
+    <label>marijuana</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>13</topic_index>
+    <label>vaccination</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>14</topic_index>
+    <label>mix: common core, chris christie</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>15</topic_index>
+    <label>gay rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>16</topic_index>
+    <label>mix: student debt et al</label>
+    <description>ostalo: budget, housing debt, immigration</description>
+  </topic>
+  <topic>
+    <topic_index>17</topic_index>
+    <label>hillary clinton email</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>18</topic_index>
+    <label>mix (stopwords?)</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>19</topic_index>
+    <label>mix: oregon governor, gun rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>20</topic_index>
+    <label>mix: selma, civil rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>21</topic_index>
+    <label>cuba</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>22</topic_index>
+    <label>obamacare</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>23</topic_index>
+    <label>secret service</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>24</topic_index>
+    <label>senate elections</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>25</topic_index>
+    <label>mix: mitt romney et al</label>
+    <description>other: election topics</description>
+  </topic>
+  <topic>
+    <topic_index>26</topic_index>
+    <label>mix: chicago mayor election, rudy giuliani</label>
+    <description>other topics are city-related (new york, ...)</description>
+  </topic>
+  <topic>
+    <topic_index>27</topic_index>
+    <label>mix: norh korea et al</label>
+    <description>other: democratic national convention, ...</description>
+  </topic>
+  <topic>
+    <topic_index>28</topic_index>
+    <label>police brutality</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>29</topic_index>
+    <label>mix: UO fraternity scandal, sexual assaults</label>
+    <description></description>
+  </topic>
+  <topic>
+    <topic_index>30</topic_index>
+    <label>mix: joe biden, hillary clinton et al</label>
+    <description>malo ostalog, uglavnom izbori</description>
+  </topic>
+  <topic>
+    <topic_index>31</topic_index>
+    <label>iran nuclear negotiations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>32</topic_index>
+    <label>loretta lynch</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>33</topic_index>
+    <label>mix: ISIS, ukraine and russia, conflict in middle east</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>34</topic_index>
+    <label>mix: afghanistan, ISIS war authorization</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>35</topic_index>
+    <label>wall street</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>36</topic_index>
+    <label>mix: ISIS hostages et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>37</topic_index>
+    <label>us-israeli relations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>38</topic_index>
+    <label>mix</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>39</topic_index>
+    <label>environment</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>40</topic_index>
+    <label>disease</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>41</topic_index>
+    <label>mix: yemen et al</label>
+    <description>ostalo: terrorism, saudi arabia, intelligence, ...</description>
+  </topic>
+  <topic>
+    <topic_index>42</topic_index>
+    <label>mix: aaron schock et al</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>43</topic_index>
+    <label>religion in politics</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>44</topic_index>
+    <label>menendez</label>
+    <description>kao i inace uz menendez moze i corruption</description>
+  </topic>
+  <topic>
+    <topic_index>45</topic_index>
+    <label>mix: budget, economy</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>46</topic_index>
+    <label>stopwords</label>
+    <description>moglo bi biti showbusiness?</description>
+  </topic>
+  <topic>
+    <topic_index>47</topic_index>
+    <label>drone</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>48</topic_index>
+    <label>stopwords</label>
+    <description>(samo) na pocetku ima dosta scott walker?</description>
+  </topic>
+  <topic>
+    <topic_index>49</topic_index>
+    <label>ethics reform</label>
+    <description>nova tema na kraju, ali prilicno dobro definirana</description>
+  </topic>
+</model_description>

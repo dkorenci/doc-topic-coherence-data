@@ -1,0 +1,255 @@
+<model_description>
+  <id/>
+  <model_id>ldamodel_T50_Aarray_Eta0.010_Off1.000_Dec0.500_Chunk1000_Pass5</model_id>
+  <description/>
+  <topic>
+    <topic_index>0</topic_index>
+    <label>mami&#263;</label>
+    <description>uhi&#263;enje i jam&#269;evina zdravka mami&#263;a, vrbanovi&#263;, mario mami&#263;, ...</description>
+  </topic>
+  <topic>
+    <topic_index>1</topic_index>
+    <label>hoteli</label>
+    <description>hoteli i turisti&#269;ki objekti: izgradnja, kupoprodaja, ...</description>
+  </topic>
+  <topic>
+    <topic_index>2</topic_index>
+    <label>&#353;um</label>
+    <description>turisti&#269;ke statistike, kupovina i razne poslovne teme</description>
+  </topic>
+  <topic>
+    <topic_index>3</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>4</topic_index>
+    <label>summit brdo brijuni</label>
+    <description>posjeti bidena zagrebu, summin, ne&#353;to raznih vanjskopoliti&#269;kih tema</description>
+  </topic>
+  <topic>
+    <topic_index>5</topic_index>
+    <label>oru&#382;ane snage</label>
+    <description>hrvatska vojska, vojne vje&#382;be, misije, vojni brodovi</description>
+  </topic>
+  <topic>
+    <topic_index>6</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>7</topic_index>
+    <label>hrvatsko gospodarstvo</label>
+    <description>gospodarske statistike, uvoz, izvoz, bdp, crna ekonomija</description>
+  </topic>
+  <topic>
+    <topic_index>8</topic_index>
+    <label>dan sje&#263;anja na vukovar</label>
+    <description>vukovar, ov&#269;ara, ceremonija obilje&#382;avanja, razne braniteljske teme</description>
+  </topic>
+  <topic>
+    <topic_index>9</topic_index>
+    <label>most, hdzova predizborna kampanja</label>
+    <description>raskol u mostu, koaliranja mosta, hdz, hdzovo prepucavanje s sdp-om, ...</description>
+  </topic>
+  <topic>
+    <topic_index>10</topic_index>
+    <label>bo&#382;i&#263;, &#353;um</label>
+    <description>bo&#382;i&#263;ne mise, bo&#382;i&#263;ne poruke, bo&#382;i&#263;na doga&#273;anja, ...</description>
+  </topic>
+  <topic>
+    <topic_index>11</topic_index>
+    <label>okoli&#353;</label>
+    <description>globalno zatopljenje, energetska u&#269;inkovitost, odlagali&#353;ta otpada, ...</description>
+  </topic>
+  <topic>
+    <topic_index>12</topic_index>
+    <label>djeca</label>
+    <description>romska djevoj&#269;ica, za&#353;tita djece, djeca migranti, djeca i obrazovanje, ...</description>
+  </topic>
+  <topic>
+    <topic_index>13</topic_index>
+    <label>primanja, &#353;um</label>
+    <description>pla&#263;e, radni&#269;ka pitanja, ...</description>
+  </topic>
+  <topic>
+    <topic_index>14</topic_index>
+    <label>crkva</label>
+    <description>papa, stepinac, biskupi, sve&#263;enici, vatikan, ...</description>
+  </topic>
+  <topic>
+    <topic_index>15</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>16</topic_index>
+    <label>izbori</label>
+    <description>izlazne ankete, nepravilnosti, tijek izbora, predizborna &#353;utnja, rezultati</description>
+  </topic>
+  <topic>
+    <topic_index>17</topic_index>
+    <label>obnova za&#353;ti&#263;enih objekata</label>
+    <description>obnova crkva, poljuda, pala&#269;a, ...</description>
+  </topic>
+  <topic>
+    <topic_index>18</topic_index>
+    <label>politi&#269;ki kazneni progoni</label>
+    <description>vido&#353;evi&#263;, sindi&#269;i&#263;, perkovi&#263;, pa&#353;ali&#263;, lovri&#263; merzel, &#353;i&#353;ljagi&#263;</description>
+  </topic>
+  <topic>
+    <topic_index>19</topic_index>
+    <label>gorivo</label>
+    <description>cijene goriva, ina, mol, ...</description>
+  </topic>
+  <topic>
+    <topic_index>20</topic_index>
+    <label>problemi u prometu, meteorolo&#353;ke vijesti</label>
+    <description>vremenske prognoze i alarmi, disrupcije u prometu, prete&#382;no radi vremena</description>
+  </topic>
+  <topic>
+    <topic_index>21</topic_index>
+    <label>regionalne manifestacije</label>
+    <description>sajmovi, izlo&#382;be, natjecanja, fe&#353;te, ...</description>
+  </topic>
+  <topic>
+    <topic_index>22</topic_index>
+    <label>kaznena djela</label>
+    <description>kriminal, nasilna djela, prometni problemi, policija, ...</description>
+  </topic>
+  <topic>
+    <topic_index>23</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>24</topic_index>
+    <label>konzultacije kod KGK</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>25</topic_index>
+    <label>pregovori s mostom</label>
+    <description>pregovori mosta i hdza, sdpa, zahtjevi mosta, reforme, reforma regionalne uprave</description>
+  </topic>
+  <topic>
+    <topic_index>26</topic_index>
+    <label>napad u parizu, &#353;um</label>
+    <description>napad u parizu, terorizam, izbjegli&#269;ka kriza, ...</description>
+  </topic>
+  <topic>
+    <topic_index>27</topic_index>
+    <label>hdssb, stier</label>
+    <description>ne&#353;to drugih raznih politi&#269;kih tema</description>
+  </topic>
+  <topic>
+    <topic_index>28</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>29</topic_index>
+    <label>ste&#269;ajni postupci, &#353;um</label>
+    <description>tlm, dina petrokemija, ...</description>
+  </topic>
+  <topic>
+    <topic_index>30</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>31</topic_index>
+    <label>&#382;ilet &#382;ica, elektri&#269;na energija</label>
+    <description>&#382;ilet &#382;ica, opskrba strujom, ra&#269;uni za struju, ...</description>
+  </topic>
+  <topic>
+    <topic_index>32</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>33</topic_index>
+    <label>ivo sanader</label>
+    <description>sanaderova jam&#269;evina i izlazak iz zatvora, jamci, odvjetnici, &#382;able, ...</description>
+  </topic>
+  <topic>
+    <topic_index>34</topic_index>
+    <label>KGK, pregovori s mostom</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>35</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>36</topic_index>
+    <label>prehrambeni proizvodi</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>37</topic_index>
+    <label>izborne statistike</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>38</topic_index>
+    <label>poplave</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>39</topic_index>
+    <label>ustavni sud</label>
+    <description>ustavne tu&#382;be, pritisci na sud, zakon o sportu, interpretacije zakona, ...</description>
+  </topic>
+  <topic>
+    <topic_index>40</topic_index>
+    <label>most</label>
+    <description>op&#263;enito most: pregovori, raskol, postavljanje oko raznih pitanja</description>
+  </topic>
+  <topic>
+    <topic_index>41</topic_index>
+    <label>krediti u &#353;vicarcima</label>
+    <description>proces konverzije, zakon o konverziji, prosvjedi</description>
+  </topic>
+  <topic>
+    <topic_index>42</topic_index>
+    <label>medicinska konoplja</label>
+    <description>pravilnik o zdravstvenom kori&#353;tenju konoplje, razne druge zdravstvene teme</description>
+  </topic>
+  <topic>
+    <topic_index>43</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>44</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>45</topic_index>
+    <label>radni&#269;ka pitanja</label>
+    <description>&#353;trajk u obrazovanju, sindikati, radni&#269;ka pitanja u predizbornoj kampanji</description>
+  </topic>
+  <topic>
+    <topic_index>46</topic_index>
+    <label>&#353;um</label>
+    <description>borba protiv korupcija, pozivi za vojsku u istri, pri&#269;a sun-ovog novinara</description>
+  </topic>
+  <topic>
+    <topic_index>47</topic_index>
+    <label>odnosi hrvatske i slovenije</label>
+    <description>arbitra&#382;ni sporazum, &#382;ilet-&#382;ica, ...</description>
+  </topic>
+  <topic>
+    <topic_index>48</topic_index>
+    <label>visoko &#353;kolstvo</label>
+    <description>fakulteti i sveu&#269;ili&#353;ta, studentska pitanja, obrazovni programi, znanost</description>
+  </topic>
+  <topic>
+    <topic_index>49</topic_index>
+    <label>izbjegli&#269;ka kriza</label>
+    <description></description>
+  </topic>
+</model_description>

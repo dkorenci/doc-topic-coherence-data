@@ -1,0 +1,505 @@
+<model_description>
+  <id/>
+  <model_id>ldamodel_T100_Aarray_Eta0.010_Off1.000_Dec0.500_Chunk1000_Pass20</model_id>
+  <description/>
+  <topic>
+    <topic_index>0</topic_index>
+    <label>mix: bombing, veteran affairs</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>1</topic_index>
+    <label>mix: us-israeli relations, obama</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>2</topic_index>
+    <label>animals</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>3</topic_index>
+    <label>sarah palin</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>4</topic_index>
+    <label>jeb bush</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>5</topic_index>
+    <label>mixture</label>
+    <description>stopwords, naravno da ima i puno obama ali mislim da nije dovoljno?</description>
+  </topic>
+  <topic>
+    <topic_index>6</topic_index>
+    <label>veteran affairs</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>7</topic_index>
+    <label>mix: ted cruz, nigeria</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>8</topic_index>
+    <label>labour issues</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>9</topic_index>
+    <label>environment</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>10</topic_index>
+    <label>net neutrality</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>11</topic_index>
+    <label>sheldon silver</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>12</topic_index>
+    <label>marijuana</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>13</topic_index>
+    <label>ben carson</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>14</topic_index>
+    <label>keystone pipeline</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>15</topic_index>
+    <label>ted cruz</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>16</topic_index>
+    <label>student debt</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>17</topic_index>
+    <label>secret service</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>18</topic_index>
+    <label>stopwords (photo)</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>19</topic_index>
+    <label>oregon governor</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>20</topic_index>
+    <label>conflict in middle east</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>21</topic_index>
+    <label>cuba</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>22</topic_index>
+    <label>senate elections</label>
+    <description></description>
+  </topic>
+  <topic>
+    <topic_index>23</topic_index>
+    <label>mix: mike huckabee, rand paul</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>24</topic_index>
+    <label>ukraine and rusia</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>25</topic_index>
+    <label>mitt romney</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>26</topic_index>
+    <label>mix: chicago mayor elections, rudy giuliani</label>
+    <description>povezno preko termina mayor</description>
+  </topic>
+  <topic>
+    <topic_index>27</topic_index>
+    <label>iran letter</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>28</topic_index>
+    <label>stopwords</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>29</topic_index>
+    <label>mix: UO fraternity scandal, sexual assaults</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>30</topic_index>
+    <label>bowe bergdahl</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>31</topic_index>
+    <label>iran nuclear negotiations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>32</topic_index>
+    <label>mix: rick perry, CPAC</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>33</topic_index>
+    <label>stopwords</label>
+    <description>cini se da je vecini clanaka zajednicko da su kolumne (misljenja, eseji) a ne vijesti</description>
+  </topic>
+  <topic>
+    <topic_index>34</topic_index>
+    <label>mix: afghanistan, conflict in middle east</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>35</topic_index>
+    <label>wall street</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>36</topic_index>
+    <label>intelligence</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>37</topic_index>
+    <label>us-israeli relations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>38</topic_index>
+    <label>surveillance</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>39</topic_index>
+    <label>economy</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>40</topic_index>
+    <label>mix: violent crimes, prisons</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>41</topic_index>
+    <label>mix: conflict in middle east, muslim extremism</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>42</topic_index>
+    <label>aaron schock</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>43</topic_index>
+    <label>mix: radio and television, pope francis</label>
+    <description></description>
+  </topic>
+  <topic>
+    <topic_index>44</topic_index>
+    <label>stopwords</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>45</topic_index>
+    <label>environment</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>46</topic_index>
+    <label>mix: obama, india</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>47</topic_index>
+    <label>mix: greek economy, jon stewart</label>
+    <description>ne vidim vezu (mozda exit)</description>
+  </topic>
+  <topic>
+    <topic_index>48</topic_index>
+    <label>mix: DHS shutdown, obama immigration</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>49</topic_index>
+    <label>andrew cuomo</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>50</topic_index>
+    <label>presidential elections</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>51</topic_index>
+    <label>death penalty</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>52</topic_index>
+    <label>obama</label>
+    <description>razne teme vezane za obama</description>
+  </topic>
+  <topic>
+    <topic_index>53</topic_index>
+    <label>mix: saudi, obama</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>54</topic_index>
+    <label>gay rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>55</topic_index>
+    <label>budget</label>
+    <description>stopword huffpost unosi sum</description>
+  </topic>
+  <topic>
+    <topic_index>56</topic_index>
+    <label>mix: drone, trade and regulations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>57</topic_index>
+    <label>gun rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>58</topic_index>
+    <label>court</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>59</topic_index>
+    <label>scott walker</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>60</topic_index>
+    <label>north korea</label>
+    <description>bilo bi bolje samo korea</description>
+  </topic>
+  <topic>
+    <topic_index>61</topic_index>
+    <label>germanwings</label>
+    <description>mozda bi trebalo dodati temu flight?</description>
+  </topic>
+  <topic>
+    <topic_index>62</topic_index>
+    <label>movies books music</label>
+    <description>nije mi bilo dovoljno za novu temu ali mozda bi bilo bolje entertainment ili entertainment and politics?</description>
+  </topic>
+  <topic>
+    <topic_index>63</topic_index>
+    <label>cybersecurity</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>64</topic_index>
+    <label>obamacare</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>65</topic_index>
+    <label>stopwords</label>
+    <description>moglo bi se staviti ted strickland kao nova tema ali mislim da nije dovoljno</description>
+  </topic>
+  <topic>
+    <topic_index>66</topic_index>
+    <label>mix: common core, education</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>67</topic_index>
+    <label>religion in politics</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>68</topic_index>
+    <label>isis hostages</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>69</topic_index>
+    <label>us-israeli relations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>70</topic_index>
+    <label>stopwords</label>
+    <description>na rubu da se uvede nova prica al shabab ili somalia</description>
+  </topic>
+  <topic>
+    <topic_index>71</topic_index>
+    <label>stopwords</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>72</topic_index>
+    <label>police shootings</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>73</topic_index>
+    <label>food</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>74</topic_index>
+    <label>mix: menendez, corruption</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>75</topic_index>
+    <label>hillary clinton email</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>76</topic_index>
+    <label>gay rights</label>
+    <description></description>
+  </topic>
+  <topic>
+    <topic_index>77</topic_index>
+    <label>homelessness</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>78</topic_index>
+    <label>stopwords</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>79</topic_index>
+    <label>conflict in middle east</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>80</topic_index>
+    <label>DNC</label>
+    <description>moglo bi i stopwords</description>
+  </topic>
+  <topic>
+    <topic_index>81</topic_index>
+    <label>chris christie</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>82</topic_index>
+    <label>syrian war</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>83</topic_index>
+    <label>joe biden</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>84</topic_index>
+    <label>stopwords</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>85</topic_index>
+    <label>lindsey graham</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>86</topic_index>
+    <label>opinion polls</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>87</topic_index>
+    <label>stopwords</label>
+    <description>tema koja se provlaci je monument, ali cesto kao uzgredni pojam, lokacija nekog dogadjaja</description>
+  </topic>
+  <topic>
+    <topic_index>88</topic_index>
+    <label>mix: traffic, immigration</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>89</topic_index>
+    <label>china</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>90</topic_index>
+    <label>vaccination</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>91</topic_index>
+    <label>abortion</label>
+    <description>ima dosta i clinton e-mail, ali vecinom je e-mail stopword</description>
+  </topic>
+  <topic>
+    <topic_index>92</topic_index>
+    <label>military</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>93</topic_index>
+    <label>mix: selma, civil rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>94</topic_index>
+    <label>mix: tom schweich, fed et al</label>
+    <description>mozda fed moze pod economy</description>
+  </topic>
+  <topic>
+    <topic_index>95</topic_index>
+    <label>mix: elizabeth warren, martin o'malley</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>96</topic_index>
+    <label>loretta lynch</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>97</topic_index>
+    <label>sport</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>98</topic_index>
+    <label>trade pact</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>99</topic_index>
+    <label>budget</label>
+    <description/>
+  </topic>
+</model_description>

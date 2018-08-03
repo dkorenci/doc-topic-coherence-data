@@ -1,0 +1,17 @@
+(imodels.adapters
+GensimLdamodel
+p0
+(dp1
+S'model'
+p2
+NsS'tag'
+p3
+S''
+p4
+sS'state'
+p5
+NsS'dictionary'
+p6
+NsS'num_topics'
+p7
+Nsb.

@@ -1,0 +1,526 @@
+<model_description>
+  <id/>
+  <model_id>ldamodel_T100_Aarray_Eta0.010_Off1.000_Dec0.500_Chunk1000_Pass5</model_id>
+  <description/>
+  <topic>
+    <topic_index>0</topic_index>
+    <label>ameri&#269;ki vojni brodovi, &#353;um</label>
+    <description>uss harry s.truman, split, baldasar, morh, hrm, la&#382;no predstavljanje u ime hrt-a, radman, sa&#353;a runji&#263;</description>
+  </topic>
+  <topic>
+    <topic_index>1</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>2</topic_index>
+    <label>crkva</label>
+    <description>papa franjo, bozani&#263;, stepinac, strossmayer, hazu, kanonizacija, blagdani, knjiga o stepincu</description>
+  </topic>
+  <topic>
+    <topic_index>3</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>4</topic_index>
+    <label>vanjska politika</label>
+    <description>ostoji&#263;, prihvatni centri, opatovac, broj migranata, ruski veleposlanik, kolinda grabar kitarovi&#263;, UN, ISIL, NATO, islam, sirija, islamska dr&#382;ava</description>
+  </topic>
+  <topic>
+    <topic_index>5</topic_index>
+    <label>ids, &#353;um</label>
+    <description>istarski demokrati, ids, damir kajin,</description>
+  </topic>
+  <topic>
+    <topic_index>6</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>7</topic_index>
+    <label>pregovori s mostom, radni&#269;ka pitanja</label>
+    <description>most, hdz, sdp, milanovi&#263;, karamarko, petrov, izbor mandatara, referendum o referendumu, sindikati javnih slu&#382;bi, vilim ribi&#263;</description>
+  </topic>
+  <topic>
+    <topic_index>8</topic_index>
+    <label>oru&#382;ane snage</label>
+    <description>mig, morh, helikopter hrz spasio dijete, nato, vojni piloti</description>
+  </topic>
+  <topic>
+    <topic_index>9</topic_index>
+    <label>&#353;um</label>
+    <description>misteriozna djevoj&#269;ica, novinar koji je lagao o putovanju bez putovnice, the sun, hnd,</description>
+  </topic>
+  <topic>
+    <topic_index>10</topic_index>
+    <label>hrvatsko zdravstvo</label>
+    <description>skandal u splitskom kbc-u, splitski anesteziolozi, varga, hzzo</description>
+  </topic>
+  <topic>
+    <topic_index>11</topic_index>
+    <label>turizam</label>
+    <description>lorencin, zagreb, broj dolazaka, no&#263;enja, turisti&#269;ke zajednice</description>
+  </topic>
+  <topic>
+    <topic_index>12</topic_index>
+    <label>&#353;um</label>
+    <description>ladislav il&#269;i&#263;, tu&#382;be protiv novinara, hdz, sdp, most, reforme</description>
+  </topic>
+  <topic>
+    <topic_index>13</topic_index>
+    <label>izbori</label>
+    <description>dip, hrvatin, kandidacijske liste, turudi&#263;, gong, 8.studeni, prvi podaci o izlaznosti, ponavljanje u nekim bira&#269;kim mjestima, dijaspora, preferencijalno glasovanje</description>
+  </topic>
+  <topic>
+    <topic_index>14</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>15</topic_index>
+    <label>financije</label>
+    <description>dr&#382;avne, odobne, javni dug, franak, rezovi, prora&#269;uni, BDP, gospodarski rast</description>
+  </topic>
+  <topic>
+    <topic_index>16</topic_index>
+    <label>&#353;um</label>
+    <description>natje&#269;aj, otvorenje, gradnja, pedago&#353;ki odgoj</description>
+  </topic>
+  <topic>
+    <topic_index>17</topic_index>
+    <label>KGK, &#353;um</label>
+    <description>posjeti inozemstvu, vanjska politika, unutarnja politika</description>
+  </topic>
+  <topic>
+    <topic_index>18</topic_index>
+    <label>gra&#273;evinske investicije</label>
+    <description>starana i doma&#263;a ulaganja, DUUDI, ceste, turisti&#269;ki objekti, ...</description>
+  </topic>
+  <topic>
+    <topic_index>19</topic_index>
+    <label>&#353;um</label>
+    <description>ankete, analize, mediji, izlaznost
+turisti&#269;ka sezona, no&#263;enja, ve&#263;a posje&#263;enost, turisti&#269;ke agencije, ljeto, zima</description>
+  </topic>
+  <topic>
+    <topic_index>20</topic_index>
+    <label>izbjegli&#269;ka kriza, &#353;um</label>
+    <description>tranzitni centar SB, Opatovac, novi valovi migranata</description>
+  </topic>
+  <topic>
+    <topic_index>21</topic_index>
+    <label>izbjegli&#269;ka kriza</label>
+    <description>samit zemalja u Bruxellesu, balkanska migrantska ruta, &#382;ice, Slovenija</description>
+  </topic>
+  <topic>
+    <topic_index>22</topic_index>
+    <label>&#353;um</label>
+    <description>ljubljanska banka, porezi, financije, ...</description>
+  </topic>
+  <topic>
+    <topic_index>23</topic_index>
+    <label>izbori, &#353;um</label>
+    <description>DIP, izlazne ankete, bira&#269;i, 8. studeni
+prvi podatci izlaznosti, najneizvjesnija utrka, ponavljanje izbora u nekim izbornim jedinicama</description>
+  </topic>
+  <topic>
+    <topic_index>24</topic_index>
+    <label>&#353;um</label>
+    <description>optu&#382;nica, SDP, mito, pranje novca
+parlamentarni izbori, program, Holy podnijela ostavku,</description>
+  </topic>
+  <topic>
+    <topic_index>25</topic_index>
+    <label>&#353;um</label>
+    <description>sastanku &#353;efova dr&#382;ava Vi&#353;egradske skupine,Balatonfured, ma&#273;erski premijer Orban, zasjedanje UNa u NY, summit V4, izbori, studentica, vra&#263;anje vlaka iz Ma&#273;arkse</description>
+  </topic>
+  <topic>
+    <topic_index>26</topic_index>
+    <label>oru&#382;ane snage</label>
+    <description>NATO, splitska luka Lora, povratak brodova, vojne vje&#382;be, mornari, raketa, Slunj, Dugi otok, Kotromanovi&#263;</description>
+  </topic>
+  <topic>
+    <topic_index>27</topic_index>
+    <label>hrvatski proizvodi, tlm, turizam, &#353;um</label>
+    <description>Marunda, Lovran, li&#269;ki krumpir, kulen, masline
+Zadarski sud, &#353;ibenski tlm aluminum, ste&#269;aj
+ulaganja, posjeti</description>
+  </topic>
+  <topic>
+    <topic_index>28</topic_index>
+    <label>pregovori s mostom</label>
+    <description>pregovori Mosta oko suradnje - Domoljubna koalicija/Hrvatska raste, Bo&#382;o Petrov, Karamarko, Milanovi&#263;</description>
+  </topic>
+  <topic>
+    <topic_index>29</topic_index>
+    <label>urbanizam</label>
+    <description>mall of split, izgradnja u urbanim sredinama, investicije, ...</description>
+  </topic>
+  <topic>
+    <topic_index>30</topic_index>
+    <label>&#353;um</label>
+    <description>josip leko, nagrada "miko tripalo", tihomir ore&#353;kovi&#263;, mandatar, zdravstvo, sanader, slokovi&#263;, prodanovi&#263;, ...</description>
+  </topic>
+  <topic>
+    <topic_index>31</topic_index>
+    <label>&#353;um</label>
+    <description>kampanja, hdz sdp, most, josipa rimac, milanovi&#263;,davorin mlakar,pregovori ...
+rab, naplata parkinga, krk, lu&#269;ka uprava, ...</description>
+  </topic>
+  <topic>
+    <topic_index>32</topic_index>
+    <label>&#353;um</label>
+    <description>besplatan prijevoz, groblja, fina, pokretnine, bo&#382;i&#263;na groznica, veleposlanica izraela, &#353;kabrnja, ...</description>
+  </topic>
+  <topic>
+    <topic_index>33</topic_index>
+    <label>vlak sa izbjeglicama</label>
+    <description>fokus je zarobljeni vlak, kolinda grabar kitarovic, orban, ma&#273;arska, izbjeglice, povratak, policija,</description>
+  </topic>
+  <topic>
+    <topic_index>34</topic_index>
+    <label>&#353;um</label>
+    <description>turisti&#269;ka no&#263;enja, kra&#273;e, gradovi, op&#263;ine, oto&#269;ni proizvod, kladionice, napu&#353;tena curica, prognoza...</description>
+  </topic>
+  <topic>
+    <topic_index>35</topic_index>
+    <label>sindikati, &#353;um</label>
+    <description>savez samostalnih sindikata hrvatske, mladen novosel, nezavisni hrvatski sindikati, kre&#353;imir sever</description>
+  </topic>
+  <topic>
+    <topic_index>36</topic_index>
+    <label>pregovori nakon izbora, kolinda grabar-kitarovi&#263;</label>
+    <description>predsjednica kgk, konzultacije, sdsss, mandatar, tihomir ore&#353;kovi&#263;, vlada, petrov, manjine, milanovi&#263;, ids, &#269;a&#269;i&#263;, ...</description>
+  </topic>
+  <topic>
+    <topic_index>37</topic_index>
+    <label>izru&#269;enja</label>
+    <description>perkovi&#263;, su&#273;enje, sud u madridu, izru&#269;enje, svjedok,  vinko sindi&#269;i&#263;, tajne slu&#382;be, nalog, interpol, mol, Zsolt Hernadi...</description>
+  </topic>
+  <topic>
+    <topic_index>38</topic_index>
+    <label>hrvatsko gospodarsto, &#353;um</label>
+    <description>rast gospodarstva, bdp, izvoz, potro&#353;nja...
+izbjeglice, granica, zarobljeni vlak, ma&#273;arska, orban, milanovi&#263;, kolinda grabar kitarovi&#263;...</description>
+  </topic>
+  <topic>
+    <topic_index>39</topic_index>
+    <label>blagdani, &#353;um</label>
+    <description>sajmovi, advent, zadar, split, zagreb, glazba, klizali&#353;te, rijeka, ...
+hdz, sdp, karamarko, milanovi&#263;, petrov, kosor...</description>
+  </topic>
+  <topic>
+    <topic_index>40</topic_index>
+    <label>&#353;um</label>
+    <description>poljoprivredna banka, reforma poljoprivrede, zadruga vinara, hladno pre&#353;ano ulje od sjemena konoplje, ...
+the sun, isprika, hrvatska policija...</description>
+  </topic>
+  <topic>
+    <topic_index>41</topic_index>
+    <label>taxi</label>
+    <description>uber, aplikacija, zagreb, radio taxi, konkurencija, cammeo,...</description>
+  </topic>
+  <topic>
+    <topic_index>42</topic_index>
+    <label>&#353;um</label>
+    <description>akcija "mir i dobro", propisi o pirotehnici, mup, osiguranje ameri&#269;kog potpredsjednika, visoke mjere sigurnosti... 
+novac iz eu fondova za bolnice, dnevne bolnice, hitni prijem...</description>
+  </topic>
+  <topic>
+    <topic_index>43</topic_index>
+    <label>promet, &#353;um</label>
+    <description>poskupljenje parkiranja, blagdanski vozni red, prijevoz izbjeglica,...</description>
+  </topic>
+  <topic>
+    <topic_index>44</topic_index>
+    <label>pregovori s mostom, &#353;um</label>
+    <description>most, petrov, reforme, milanovi&#263;, pregovori, sdp, toma&#353;i&#263;, ...
+plja&#269;ke, kriminal, droga, ...</description>
+  </topic>
+  <topic>
+    <topic_index>45</topic_index>
+    <label>krediti u &#353;vicarcima</label>
+    <description>Udruga udruga franak, bankefranak, &#352;vicarski franak, Erste banka, Kredo banka, Hypo banka, HPB, HNB, ZABA, PBZ, Raiffeisenbank,  konverzije kredita, kamatne stope, Boris Lalovac, Boris Vuj&#269;i&#263;, KREDA, kr&#353;enje zakona,</description>
+  </topic>
+  <topic>
+    <topic_index>46</topic_index>
+    <label>&#353;um</label>
+    <description>SDSS, Slavonski brod i zaga&#273;enje, HSS,</description>
+  </topic>
+  <topic>
+    <topic_index>47</topic_index>
+    <label>&#353;um</label>
+    <description>sindikati, homoseksualnost, promjene, tro&#353;kovi, istra&#382;ivanja</description>
+  </topic>
+  <topic>
+    <topic_index>48</topic_index>
+    <label>izbjegli&#269;ka kriza</label>
+    <description>Opatovac, Slovenija, Ma&#273;arska, planovi za izbjelice, prijevozi, Bapska, Tovarnik, grani&#269;ni prijelazi, Gr&#269;ka</description>
+  </topic>
+  <topic>
+    <topic_index>49</topic_index>
+    <label>&#353;um</label>
+    <description>trgovina, donacije, recikla&#382;a, darivanje krvi, projekti, crveni kri&#382;, poduzetni&#353;tvo,</description>
+  </topic>
+  <topic>
+    <topic_index>50</topic_index>
+    <label>&#353;um</label>
+    <description>su&#269;eeljavanje SDP-HDZ, referendumi, Nova tv, Stipe Petrina, Primo&#353;ten, politi&#269;ke stranke</description>
+  </topic>
+  <topic>
+    <topic_index>51</topic_index>
+    <label>EU</label>
+    <description>Europska komisija, &#353;vicarci, arbitra&#382;ni sporazum, David Cameron, Zoran Milanovi&#263;, Europski parlament, prora&#269;uni, unutarnja politika RH, Angela Merkel</description>
+  </topic>
+  <topic>
+    <topic_index>52</topic_index>
+    <label>&#353;um</label>
+    <description>obitelj Mami&#263;, USKOK, Gljadelkin, Dinamo, turizam, Avenue grupa, li&#269;ki krumpir, turisti&#269;ke zajednice, sudovi, istrage, nogomet</description>
+  </topic>
+  <topic>
+    <topic_index>53</topic_index>
+    <label>most</label>
+    <description>MOST, Bo&#382;o Petrov, Zoran Milanovi&#263;, HRID, pregovori, vlada nacionalnog jedinstva, konzultacije s KGK, HDZ, SDP, Tomislav Karamarko</description>
+  </topic>
+  <topic>
+    <topic_index>54</topic_index>
+    <label>sport, &#353;um</label>
+    <description>ko&#353;arka, sportske dvorane,parkovi i objekti, turniri i natjecanja, skijanje, tenis, radni&#269;ka fronta, igra&#269;ke, utrke, nogomet, Wings for life</description>
+  </topic>
+  <topic>
+    <topic_index>55</topic_index>
+    <label>ribolov, &#353;um</label>
+    <description>ribolov, nacionalni parkovi, lov, flora i fauna, lovostaji, tr&#382;nice, uzgoj</description>
+  </topic>
+  <topic>
+    <topic_index>56</topic_index>
+    <label>poplave</label>
+    <description>Karlovac, Korana, Kupa, Sisak, Zg, ju&#382;na Dalmacija, prirodna nepogoda,</description>
+  </topic>
+  <topic>
+    <topic_index>57</topic_index>
+    <label>gospodarski izborni programi</label>
+    <description>HDZ, PDV, programi za vrijeme mandata, gospodarstvo, BDP, SDP, parlamentarni izbori, poljoprivreda, Prnjavor,</description>
+  </topic>
+  <topic>
+    <topic_index>58</topic_index>
+    <label>izbjegli&#269;ka kriza, &#353;um</label>
+    <description>zbrinjavanje migranata, tro&#353;enje prora&#269;unskih zaliha, zdravstvo, imunolo&#353;ki zavod, cjepljenje, JGL,</description>
+  </topic>
+  <topic>
+    <topic_index>59</topic_index>
+    <label>potresi, izbjegli&#269;ka kriza</label>
+    <description>potresi, Slovenija, Zagreb, Sezimolo&#353;ka slu&#382;ba, migranti, Ostoji&#263;, prirodne nepogode,</description>
+  </topic>
+  <topic>
+    <topic_index>60</topic_index>
+    <label>jadranka kosor, &#353;um</label>
+    <description>razli&#269;ite teme vezane uz Jadranku Kosor</description>
+  </topic>
+  <topic>
+    <topic_index>61</topic_index>
+    <label>zapo&#353;ljavanje, psi</label>
+    <description>radni odnos, posao, psi vodi&#269;i, ugrizi pasa</description>
+  </topic>
+  <topic>
+    <topic_index>62</topic_index>
+    <label>&#353;um</label>
+    <description>izlazak invalida na glasovanje, domovi za starije i nemo&#263;ne osobe, besplatno klizanje u &#273;akovu za djecu koja dolaze na zornice</description>
+  </topic>
+  <topic>
+    <topic_index>63</topic_index>
+    <label>konstituiranje sabora</label>
+    <description>konstituiranje sabora, &#382;eljko reiner</description>
+  </topic>
+  <topic>
+    <topic_index>64</topic_index>
+    <label>dan sje&#263;anja na vukovar</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>65</topic_index>
+    <label>problemi u prometu</label>
+    <description>zimski uvjeti, zatvorene ceste</description>
+  </topic>
+  <topic>
+    <topic_index>66</topic_index>
+    <label>split, &#353;um</label>
+    <description>vijesti iz splita, turizam, Ivo Baldasar, &#381;eljko Kerum</description>
+  </topic>
+  <topic>
+    <topic_index>67</topic_index>
+    <label>terorizam</label>
+    <description>napadi u parizu, podr&#353;ka francuskoj</description>
+  </topic>
+  <topic>
+    <topic_index>68</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>69</topic_index>
+    <label>ustavni sud, &#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>70</topic_index>
+    <label>medicinska konoplja</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>71</topic_index>
+    <label>&#353;um</label>
+    <description>zanimljivo, visoki postoci u tekstovima, ali totalno nekoherentna tema</description>
+  </topic>
+  <topic>
+    <topic_index>72</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>73</topic_index>
+    <label>gorivo</label>
+    <description>ima malo o nekretninama i gospodarskim temama</description>
+  </topic>
+  <topic>
+    <topic_index>74</topic_index>
+    <label>energija</label>
+    <description>struja, plin, energetska u&#269;inkovtost, obnovljivi izvori</description>
+  </topic>
+  <topic>
+    <topic_index>75</topic_index>
+    <label>pravni propisi</label>
+    <description>dosta op&#263;enito, razne vrste propisa, od EU do lokalne vlasti</description>
+  </topic>
+  <topic>
+    <topic_index>76</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>77</topic_index>
+    <label>izborne statistike</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>78</topic_index>
+    <label>&#353;um</label>
+    <description>problemi sa splitskom pedijatrijom, nabava oru&#382;ja
+i vezani problemi sa srbijom, ...</description>
+  </topic>
+  <topic>
+    <topic_index>79</topic_index>
+    <label>&#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>80</topic_index>
+    <label>kvarner</label>
+    <description>teme iz rijeke, opatije, rije&#269;ki HNK, ... 
+splitski hnk, ...</description>
+  </topic>
+  <topic>
+    <topic_index>81</topic_index>
+    <label>primanja, &#353;um</label>
+    <description>pla&#263;e mirovine i bo&#382;i&#263;nice, ima i tekstova o re&#382;ijama</description>
+  </topic>
+  <topic>
+    <topic_index>82</topic_index>
+    <label>&#353;um</label>
+    <description>politi&#269;ke ankete, &#353;vicarci, ima dosta raznih ekonomskih tema</description>
+  </topic>
+  <topic>
+    <topic_index>83</topic_index>
+    <label>osnovno i srednje &#353;kolstvo, &#353;um</label>
+    <description>vjesti o pojedina&#269;nim &#353;kolama i manifestacijama, 
+&#353;trajk, reforma obrazovanja, upisi</description>
+  </topic>
+  <topic>
+    <topic_index>84</topic_index>
+    <label>policija</label>
+    <description>sporadi&#269;no se pojavljuju i kriminal, crna kronika, terorizam</description>
+  </topic>
+  <topic>
+    <topic_index>85</topic_index>
+    <label>&#353;um</label>
+    <description>MOST, IDS, sanacija otpada, ...</description>
+  </topic>
+  <topic>
+    <topic_index>86</topic_index>
+    <label>vanjska politika, &#353;um</label>
+    <description>prete&#382;no o Bidenovom dolasku, u &#353;umu 
+prevladavaju teme o crkvi i blagdanima,
+ima i malo terorizma</description>
+  </topic>
+  <topic>
+    <topic_index>87</topic_index>
+    <label>&#353;um</label>
+    <description>POS, gradski stanovi, ima o gradnji javnih objekata,
+meteorolo&#353;ke vijesti</description>
+  </topic>
+  <topic>
+    <topic_index>88</topic_index>
+    <label>&#353;trajk u obrazovanju, &#353;um</label>
+    <description>od ostalog ima o braniteljima, sindikatima op&#263;enito, nasilju, ...</description>
+  </topic>
+  <topic>
+    <topic_index>89</topic_index>
+    <label>meteorolo&#353;ke vijesti</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>90</topic_index>
+    <label>ivo sanader</label>
+    <description>su&#273;enje, jam&#269;evina, ...</description>
+  </topic>
+  <topic>
+    <topic_index>91</topic_index>
+    <label>&#353;um</label>
+    <description>sinjska alka, obljetnica tu&#273;manove smrti, pregovori
+nakon izbora, HRT, lokalne vijesti, ...</description>
+  </topic>
+  <topic>
+    <topic_index>92</topic_index>
+    <label>klimatske promjene, &#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>93</topic_index>
+    <label>splitski kbc</label>
+    <description>korupcija u zdravstvu, crkva, ima ne&#353;to malo i o postizbornim pregovorima</description>
+  </topic>
+  <topic>
+    <topic_index>94</topic_index>
+    <label>visoko &#353;kolstvo, &#353;um</label>
+    <description>ima ne&#353;to osnovnog i srednjeg &#353;kolstva
+i tema iz znanosti op&#263;enito
+te</description>
+  </topic>
+  <topic>
+    <topic_index>95</topic_index>
+    <label>&#353;um</label>
+    <description>mo&#382;da politika u vrlo op&#263;enitom smislu, &#269;ini se da su zastupljenije "desne" teme</description>
+  </topic>
+  <topic>
+    <topic_index>96</topic_index>
+    <label>prehrambeni proizvodi, &#353;um</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>97</topic_index>
+    <label>izborni proces, &#353;um</label>
+    <description>ima ne&#353;to &#269;lanaka o vinogradarstvu</description>
+  </topic>
+  <topic>
+    <topic_index>98</topic_index>
+    <label>mami&#263;</label>
+    <description>mami&#263;i, jam&#269;evina, pritvor, vido&#353;evi&#263;, kalmeta, 
+lovri&#263;-merzel, bandi&#263;</description>
+  </topic>
+  <topic>
+    <topic_index>99</topic_index>
+    <label>arheologija, &#353;um</label>
+    <description>areolo&#353;ka otkri&#263;a, izlo&#382;be, arheologija, povijesne teme</description>
+  </topic>
+</model_description>

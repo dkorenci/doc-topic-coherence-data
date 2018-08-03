@@ -1,0 +1,258 @@
+<model_description>
+  <id/>
+  <model_id>ldamodel_T50_Aarray_Eta0.010_Off1.000_Dec0.500_Chunk1000_Pass10</model_id>
+  <description/>
+  <topic>
+    <topic_index>0</topic_index>
+    <label>Scott Walker</label>
+    <description>probable republican candidate, presidency 2016</description>
+  </topic>
+  <topic>
+    <topic_index>1</topic_index>
+    <label>ukraine and russia</label>
+    <description>vecinom se radi o tome hoce li USA poslati oruzje u Ukrajinu</description>
+  </topic>
+  <topic>
+    <topic_index>2</topic_index>
+    <label>mix: muslim extremism et al</label>
+    <description>ostalo: religion, chapel hill, oregon governor</description>
+  </topic>
+  <topic>
+    <topic_index>3</topic_index>
+    <label>budget</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>4</topic_index>
+    <label>Elizabeth Warren</label>
+    <description>Hillary Clinton, stopwords: liber, street</description>
+  </topic>
+  <topic>
+    <topic_index>5</topic_index>
+    <label>conflict in middle east</label>
+    <description>specificnije bi bilo: saudi arabia role in the inter-muslim conflict</description>
+  </topic>
+  <topic>
+    <topic_index>6</topic_index>
+    <label>mixture: us-israeli relations, Sheldon Silver</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>7</topic_index>
+    <label>mix</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>8</topic_index>
+    <label>iran nuclear negotiations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>9</topic_index>
+    <label>secret service</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>10</topic_index>
+    <label>civil rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>11</topic_index>
+    <label>gay rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>12</topic_index>
+    <label>obamacare</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>13</topic_index>
+    <label>mix: hillary clinton email , animals et al</label>
+    <description>ima jos dosta potpuno nevezanih tema</description>
+  </topic>
+  <topic>
+    <topic_index>14</topic_index>
+    <label>vaccination</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>15</topic_index>
+    <label>labor issues</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>16</topic_index>
+    <label>mix: winter storms, traffic</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>17</topic_index>
+    <label>mix: loretta lynch, veteran affairs</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>18</topic_index>
+    <label>police shootings</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>19</topic_index>
+    <label>mix: north korea et al</label>
+    <description>photo: velik broj dokumenata su potpisi pod fotografijama
+ovdje bi umjesto postojeceg north korea bilo bolje asia ili far east</description>
+  </topic>
+  <topic>
+    <topic_index>20</topic_index>
+    <label>mix: chris christie, mitt romney</label>
+    <description>u kontekstu kandidature, cesto se spominje hillary clinton</description>
+  </topic>
+  <topic>
+    <topic_index>21</topic_index>
+    <label>cuba</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>22</topic_index>
+    <label>mixture</label>
+    <description>stopwords</description>
+  </topic>
+  <topic>
+    <topic_index>23</topic_index>
+    <label>mix: lawsuit et al</label>
+    <description>ostalo je uglavnom politika</description>
+  </topic>
+  <topic>
+    <topic_index>24</topic_index>
+    <label>us-israeli relations</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>25</topic_index>
+    <label>mix: homelessness et al</label>
+    <description>ostalo: hillary clinton, veterans, ...</description>
+  </topic>
+  <topic>
+    <topic_index>26</topic_index>
+    <label>presidential elections</label>
+    <description>tema bi se mogla nazvati i iowa</description>
+  </topic>
+  <topic>
+    <topic_index>27</topic_index>
+    <label>fundraising</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>28</topic_index>
+    <label>mixture</label>
+    <description>svega pomalo, mozda bi se mogla napraviti tema standard news</description>
+  </topic>
+  <topic>
+    <topic_index>29</topic_index>
+    <label>mix: oil and gas, environment</label>
+    <description>mozda ne treba environment?</description>
+  </topic>
+  <topic>
+    <topic_index>30</topic_index>
+    <label>mix (stopwords?)</label>
+    <description>torture, CIA, intelligence, ...
+izgleda malo i kao writing-related stopwords</description>
+  </topic>
+  <topic>
+    <topic_index>31</topic_index>
+    <label>economy</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>32</topic_index>
+    <label>mix: hillary clinton email, hillary clinton</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>33</topic_index>
+    <label>mix: UO fraternity scandal, sexual assaults</label>
+    <description>mozda bill de blasio</description>
+  </topic>
+  <topic>
+    <topic_index>34</topic_index>
+    <label>marijuana</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>35</topic_index>
+    <label>mix: greek economy, economy</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>36</topic_index>
+    <label>mix: surveillance, trade pact</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>37</topic_index>
+    <label>DHS shutdown, obama immigration</label>
+    <description>obama immigration i immigration bi mozda trebalo spojiti?</description>
+  </topic>
+  <topic>
+    <topic_index>38</topic_index>
+    <label>mix: secret service, drone</label>
+    <description>javlja se i germanwings ali rijetko</description>
+  </topic>
+  <topic>
+    <topic_index>39</topic_index>
+    <label>mix: prisons, death penalty</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>40</topic_index>
+    <label>mix: joe biden, radio and television</label>
+    <description>dosta se spominje house of cards i veep, mozda bi umjesto radio and television bilo bolje movies books music? meni se ovako cini bolje</description>
+  </topic>
+  <topic>
+    <topic_index>41</topic_index>
+    <label>presidential elections</label>
+    <description>treba li ovdje dodati sve kandidate koji se spominju i koji imaju svoju temu?</description>
+  </topic>
+  <topic>
+    <topic_index>42</topic_index>
+    <label>mix: lindsey graham, presidential elections et al</label>
+    <description>cini se da je ova tema vezana uz north carolina primarije
+ostalo: izbori, kandidati</description>
+  </topic>
+  <topic>
+    <topic_index>43</topic_index>
+    <label>mix: rudy giuliani, radio and television</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>44</topic_index>
+    <label>mix: abortion, civil rights</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>45</topic_index>
+    <label>mix: political trivialities, food</label>
+    <description>ovdje se u stvari vise radi o michelle obama ali pretpostavljam da to sve moze pod istu super-temu</description>
+  </topic>
+  <topic>
+    <topic_index>46</topic_index>
+    <label>mix: aaron schock, chicago mayor elections</label>
+    <description>poveznica je illinois</description>
+  </topic>
+  <topic>
+    <topic_index>47</topic_index>
+    <label>environment</label>
+    <description/>
+  </topic>
+  <topic>
+    <topic_index>48</topic_index>
+    <label>harry reid</label>
+    <description>ovdje bih stavio i elections kao opcu temu ali je vec definirana kao elections u svijetu i izraelu, sto uciniti?</description>
+  </topic>
+  <topic>
+    <topic_index>49</topic_index>
+    <label>opinion polls</label>
+    <description/>
+  </topic>
+</model_description>
